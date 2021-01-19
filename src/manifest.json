@@ -1,0 +1,12 @@
+{
+  "name": "StyleChecker",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "description": "Checks border",
+  "content_scripts": [{
+    "matches": ["http://*/*","https://*/*"],
+    "js": [
+      "content.js"
+    ]
+  }]
+}
