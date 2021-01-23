@@ -5,5 +5,5 @@
 ![説明1](https://user-images.githubusercontent.com/48209735/105566115-cf8ee900-5d6d-11eb-96bf-c1c26d307727.png)
 こんな感じでチェックされます．
 
-![説明2](https://user-images.githubusercontent.com/48209735/105566194-2c8a9f00-5d6e-11eb-89cb-def30bb3eb98.png)
+![説明2](https://user-images.githubusercontent.com/48209735/105566328-ef72dc80-5d6e-11eb-869d-35afe40553c8.png)
 chrome://extensions/ から，「パッケージ化されていない拡張機能を読み込む」を選択します．
